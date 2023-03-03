@@ -1,0 +1,7 @@
+# new line after command
+PROMPT_COMMAND="echo"
+#
+# love death and robots
+PS1='\[\e[0;1m\]| \[\e[0;1;97m\]\u\[\e[0;38;5;196m\]   \[\e[0;1;97m\]\H\[\e[0;1m\] | \[\e[0;38;5;196m\] \[\e[0;7;97m\]\w\n\[\e[0;38;5;196m\]󱚡  \[\e[0m\]' 
+
+neofetch --jp2a ./skull.png --size 370
